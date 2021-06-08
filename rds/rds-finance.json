@@ -1,0 +1,30 @@
+{
+  "type": "rds",
+  "version": "1.0.0",
+  "sources": [
+    {
+      "name": "Google News - Headlines - Business",
+      "share": "shizuka://s/eJztUl1v2jAU/StWpu1hghDK2gFSNYWPFFoSkZAPiCpViW2IW2PT2CGwqv99FzZVfdu0t0l7sc/1vb736pzzYqgSG32j0Hqn+q2WoLUyN1JuODWx3La03DGsWkPbfr7dbO6mbDDyn5wwSMh+EdVHd5J6gZMeVhF5jCxHxyKepNYuiZdc+LE9aCmKNZPi1MFni7E39GPP85PebTia1uSpPY6FUwQXXugn7YRERCx4GtOIz33LCVaRJ3KLu+7j4CKMAkWf2stk6Yzh/ww2kP5FsArFgOVxerXqwMSFfP7bTSN7/K3g11Q0o8WnDb+GE1NG4P7YsakwGgYlTP9n6k+YEtmWAlM3Z3KQB0ShJprQjHAm6AkPKnVCCmoJVSf/BZBF64pzlJWaYU5VA9WZxgXaM0IlRHkpa0WRLmSlMkEUkmukmYZKBCHaypIiKSBP0b3xNuzeQGdhUM10gd5tZMJshqV4pygvOr8ErRQtIaep0Gdtm6PgyuLNu+5eHFmv56Vyv+1N+PKY1n738sYdHVh9m3yXmUpXw6icV5H7MH/4EuRfKbM6j01LBMrCX5zrun11cpLAkjCxgdlR6DS78ISBjL6xmNveB53l/4AF0Ggam9lj7U/wGWrFyQy59tQzJ3e6W2I0bCbT1Iz52trnv68+vfJBPU5/1npsZtf0DEcDf+usz/BQCowJsoNwOpyNTddXh2mOJh2T7fzazZFtjlaXYZsAoVuZMw4uXGdc0YahjzsI2g1jl5XZFrh+McgRfMrAfLqs6GvDqAR7ruj8LQ9BeQRRPkO3IlOF0bfeqlwKPiTQ8PUHp5m9fw=="
+    },
+    {
+      "name": "Latest Financial and Business News - Yahoo Finance",
+      "share": "shizuka://s/eJyNkE1OAzEMha8ShR2aH2g30B0sWAGqBCxYVW7i6QRNkmHsTImqSlyD63ESPPxUsGNnJ5/fs99O02D0QrfMPS3qunEBgsEqQxtjZaKvA25JFxqt4/9wATwKdw2MxOrqE3PQKQhWXSZyAYnUrbCqVI/T8DeDMmuRpl3uo4X8/vpGav0zME03B63JqlB9l0hxi6r78kq9nQp5AlYesoKmQcMqxzQoHwPmQrkwCuoxsAgQjC5spPir3iJ03Mo6zsTw62SqsvObz1vNWEPvxlltsYHUcT2hVDciKMUqn56v5rOX+WxlEnH0FY2bKcJgohVH0Xy4vyrP5MkQSXckEZR3PCD4cjnEl6wuqicqRYpl03J0uMVBaB/XrpN0G+gIC825l+a00D0M4EVop22W/J2EyEPCfaFTcM8Jl4d/aYYsjsei1gK1enFyoG6Q22hFcP8Btl65ww=="
+    },
+    {
+      "name": "Google Finance - Stock Market Prices, Real-time Quotes & Business News",
+      "share": "shizuka://s/eJyNkU9PHDEMxb+KlUNF0cxsQRyqPSCBEFUPVPxpuYfEO2Ntxhliz24HxHfHuytWIC4cosh5L79n2c9OSnBz16kOMp/N1ut10+bcJmxC7mcLYs8BZ65yGEm/ZGTfoxl/bUW43AlQw53msIQrX5aocF0ooFRwiz7VSj3CzZgVBb7B+SjEKAJ/cC3GiyjhM28oeUUmQdkT+h36cQuqgFixsFfK7BPg/9B5bjfCONSa6+gVYdc2mc4WVoHnaMenSSkIaIYO0wBTHg2+tIRc0LiLXHqMoMVH4nb7iXiFoj2yQsRAYqHSWPMUMr+bmkhqWlFrKnwY28KvNs63uxm43YycQ94kGODf38v6pz0FEasuft83TydFjh9Oz+asXR06SvHg6Ls5+vxAyRaw8EmwcjoNVhxVbvDF9/b52cXJVkQ2Uy0jvlRuZHoc8XqvW1EmSzk0Wuelc/Mfe9cVapejAV9eAeyjxVU="
+    },
+    {
+      "name": "Markets & Finance News | Reuters.com",
+      "share": "shizuka://s/eJyNj0tLBDEQhP9KiOBB5uF6krkpsuBhRHzdY9K7E0zSMZ04DOv+d3vG157ES6guvuqu7CQlLTs55Bypa9txHJsEJUOiRqNvvUovkElWEozN/wKD8sBg/2mIY7G2QQUN4gZGEu/i7jfFtAGa77OyGsMfBzbqbSYafuY2QaOxYcuBx4d1fc6WJuLp6vrpKGmqCXS2GHplg2CPV7jiw2rR6CYfLUMZ433GNC3uNmGJB+zZoj0mqAdQxtkA9GWZ4uBAXqKZxAVX8PhsHX9+oxxBJfMUeVhVMqqkPLfb7StZgn0tcPvtSB7SxMVPOD8oGmR3+kP1kAc0vGL/ASr+j6U="
+    },
+    {
+      "name": "Markets & Finance News | Reuters.com",
+      "share": "shizuka://s/eJyVT9FKw0AQ/JXjBB8kueibBERKbSFgq9To+zW3bQ4vd/F2Ywi1/+6mtvVN8OXYmZuZnd1JjJXMZU3UYp5lfd+rCB1BRFWFJmt0fAfCe+zWdxG2NnjtZCLBWPq/y+sG2LX4+RWXYm699hWIJfQovsTqN4LVBnBsxpOtgv9j20Z/jgrFz1jNV8FYv2XDazlPb5mqEBm9zKZl8bS8IL1OjwXTDsWRVk0wnYOUgwg8iYfiTXmuldagjbMeUmeRxGRVFtPHmUIKcTiIDtPZNuF1TVhbx4dutENIJA0tg5tEtjrqhpvs9onsvP3o4PnESAZx4JJX7K811jK/PqsWQHUwHLH/BlQMksc="
+    },
+    {
+      "name": "Markets | Financial Times",
+      "share": "shizuka://s/eJyFUstq3FAM/RXjklkU33Gm3YSBoQRKoIuULtJujXwt28rch3MljxnS/Fm/oF9V2ZO0ZAh0dXUORzrSsR9zTjbf5r3IwNuynKZp3craRl96SHsUzoscG5L/aQJ4VM3tich+ZjcUIFgCl92Rx1nSIM9WX3HiIoMA7sjEWjSZjvIYJGtT9Jn0eN5cLOQUk2t+/+LMITQUuqxzsVZJPTIFZM6GsXZkQSgGtSOrz5tbV1VM1IGnkjEdyGJJHjosDx9OBZcJprIVF7toDpuLj9d10jVNK2ah+GGEhMZGF8eEzSfWx+JuHBoQXCS8amPyILshdKuJGul3m6vLVY/U9TKXc6rBxvkM3fH73Y25UsoyK/r85cc7JpkNgsyxKLGOpkvUmBSnBapyIapqFoHen854HeCNxOGt7ns2ksDuDdsUnTN4+GcjCJrKfJxDO0f5in8FTubnrVXVP3+f68XoNO+ZM47CXi/1sSanP0wLjrHI5Tgo2BT5AAm8hvD4VORjoIcRv70wuYJ01Hzea38P3Ofby7+qW5Q+Njri6Q99mPzw"
+    }
+  ]
+}
